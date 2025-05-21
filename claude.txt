@@ -1,0 +1,567 @@
+30-Day Data Structures and Algorithms Practice Problems
+I'll provide specific practice problems for each day of the roadmap, organized by platform and following clear patterns. The problems progress from basic to advanced within each topic.
+Week 1: Fundamentals and Basic Data Structures
+Day 1: Introduction and Array Basics
+
+Array Traversal Pattern
+
+LeetCode #1480: Running Sum of 1d Array
+LeetCode #1672: Richest Customer Wealth
+GFG: Find the maximum and minimum element in an array
+
+
+Two-Pointer Pattern
+
+LeetCode #26: Remove Duplicates from Sorted Array
+LeetCode #283: Move Zeroes
+CodeForces: 1352A - Sum of Round Numbers
+
+
+In-place Modification Pattern
+
+LeetCode #189: Rotate Array
+LeetCode #896: Monotonic Array
+GFG: Rearrange array such that arr[i] = i
+
+
+
+Day 2: Strings and Hashing
+
+String Manipulation Pattern
+
+LeetCode #344: Reverse String
+LeetCode #557: Reverse Words in a String III
+GFG: Reverse words in a given string
+
+
+Anagram/Palindrome Pattern
+
+LeetCode #242: Valid Anagram
+LeetCode #125: Valid Palindrome
+CodeChef: LAPIN - Lapindromes
+
+
+Sliding Window Pattern
+
+LeetCode #3: Longest Substring Without Repeating Characters
+LeetCode #438: Find All Anagrams in a String
+GFG: Count distinct elements in every window of size k
+
+
+
+Day 3: Stacks
+
+Basic Stack Operations Pattern
+
+LeetCode #155: Min Stack
+LeetCode #225: Implement Stack using Queues
+GFG: Stack Operations
+
+
+Balanced Parentheses Pattern
+
+LeetCode #20: Valid Parentheses
+LeetCode #1249: Minimum Remove to Make Valid Parentheses
+CodeForces: 546C - Soldier and Cards
+
+
+Expression Evaluation Pattern
+
+LeetCode #150: Evaluate Reverse Polish Notation
+LeetCode #224: Basic Calculator
+GFG: Evaluation of Postfix Expression
+
+
+
+Day 4: Queues
+
+Basic Queue Operations Pattern
+
+LeetCode #232: Implement Queue using Stacks
+LeetCode #622: Design Circular Queue
+GFG: Operations on Queue
+
+
+Queue Applications Pattern
+
+LeetCode #933: Number of Recent Calls
+LeetCode #950: Reveal Cards In Increasing Order
+CodeChef: AMMEAT - Andrew and the Meatballs
+
+
+Sliding Window with Queue Pattern
+
+LeetCode #239: Sliding Window Maximum
+LeetCode #1438: Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+GFG: First negative integer in every window of size k
+
+
+
+Day 5: Linked Lists I
+
+Traversal Pattern
+
+LeetCode #206: Reverse Linked List
+LeetCode #141: Linked List Cycle
+GFG: Finding middle element in a linked list
+
+
+Insertion/Deletion Pattern
+
+LeetCode #203: Remove Linked List Elements
+LeetCode #19: Remove Nth Node From End of List
+CodeForces: 1020B - Badge
+
+
+Two-Pointer on Linked Lists Pattern
+
+LeetCode #876: Middle of the Linked List
+LeetCode #160: Intersection of Two Linked Lists
+GFG: Detect Loop in linked list
+
+
+
+Day 6: Linked Lists II
+
+Doubly Linked List Pattern
+
+LeetCode #707: Design Linked List (implement doubly)
+LeetCode #1472: Design Browser History
+GFG: Doubly linked list Insertion at given position
+
+
+Merge/Partition Pattern
+
+LeetCode #21: Merge Two Sorted Lists
+LeetCode #86: Partition List
+CodeChef: DELETENODES - Delete Nodes
+
+
+Advanced Linked List Pattern
+
+LeetCode #23: Merge k Sorted Lists
+LeetCode #138: Copy List with Random Pointer
+GFG: Clone a linked list with next and random pointer
+
+
+
+Day 7: Review and Problem Solving
+
+Mixed Data Structure Problems
+
+LeetCode #1: Two Sum
+LeetCode #146: LRU Cache
+GFG: Largest subarray with 0 sum
+
+
+Mock Interview Questions
+
+LeetCode #15: 3Sum
+LeetCode #42: Trapping Rain Water
+CodeForces: 1399D - Binary String To Subsequences
+
+
+
+Week 2: Recursion and Sorting Algorithms
+Day 8: Recursion Basics
+
+Basic Recursion Pattern
+
+LeetCode #509: Fibonacci Number
+LeetCode #70: Climbing Stairs
+GFG: Tower of Hanoi
+
+
+Recursive Backtracking Pattern
+
+LeetCode #46: Permutations
+LeetCode #78: Subsets
+CodeChef: MARBLES - Marbles
+
+
+String Recursion Pattern
+
+LeetCode #17: Letter Combinations of a Phone Number
+LeetCode #22: Generate Parentheses
+GFG: Print all possible strings of length k
+
+
+
+Day 9: Divide and Conquer
+
+Binary Search Pattern
+
+LeetCode #704: Binary Search
+LeetCode #35: Search Insert Position
+GFG: Floor in a Sorted Array
+
+
+Divide and Conquer Pattern
+
+LeetCode #50: Pow(x, n)
+LeetCode #169: Majority Element
+CodeForces: 1490D - Permutation Transformation
+
+
+Array Partition Pattern
+
+LeetCode #53: Maximum Subarray
+LeetCode #108: Convert Sorted Array to Binary Search Tree
+GFG: K-th element of two sorted Arrays
+
+
+
+Day 10: Sorting Algorithms I
+
+Bubble Sort Pattern
+
+GFG: Bubble Sort
+LeetCode #922: Sort Array By Parity II
+CodeChef: CNOTE - Chef and Notebooks
+
+
+Selection Sort Pattern
+
+GFG: Selection Sort
+LeetCode #561: Array Partition
+CodeForces: 1196A - Three Piles of Candies
+
+
+Insertion Sort Pattern
+
+GFG: Insertion Sort
+LeetCode #147: Insertion Sort List
+CodeChef: ISGOODNM - Is Good Number
+
+
+
+Day 11: Sorting Algorithms II
+
+Merge Sort Pattern
+
+GFG: Merge Sort
+LeetCode #148: Sort List
+CodeForces: 1462C - Unique Number
+
+
+Quick Sort Pattern
+
+GFG: Quick Sort
+LeetCode #215: Kth Largest Element in an Array
+CodeChef: PSHOT - Penalty Shoot-out
+
+
+Divide and Conquer with Sorting Pattern
+
+LeetCode #912: Sort an Array
+LeetCode #327: Count of Range Sum
+GFG: Inversion of array
+
+
+
+Day 12: Sorting Algorithms III
+
+Heap Sort Pattern
+
+GFG: Heap Sort
+LeetCode #973: K Closest Points to Origin
+CodeForces: 1353D - Constructing the Array
+
+
+Counting Sort Pattern
+
+GFG: Counting Sort
+LeetCode #75: Sort Colors
+CodeChef: TACHSTCK - Chopsticks
+
+
+Custom Sorting Pattern
+
+LeetCode #179: Largest Number
+LeetCode #1329: Sort the Matrix Diagonally
+GFG: Sort an array according to the other
+
+
+
+Day 13: Binary Search Applications
+
+Binary Search on Sorted Arrays Pattern
+
+LeetCode #33: Search in Rotated Sorted Array
+LeetCode #153: Find Minimum in Rotated Sorted Array
+GFG: Ceiling in a sorted array
+
+
+Binary Search on Answer Space Pattern
+
+LeetCode #1011: Capacity To Ship Packages Within D Days
+LeetCode #410: Split Array Largest Sum
+CodeForces: 1360D - Buying Shovels
+
+
+Binary Search with Constraints Pattern
+
+LeetCode #875: Koko Eating Bananas
+LeetCode #1482: Minimum Number of Days to Make m Bouquets
+GFG: Allocate minimum number of pages
+
+
+
+Day 14: Review and Problem Solving
+
+Mixed Sorting and Searching Problems
+
+LeetCode #4: Median of Two Sorted Arrays
+LeetCode #315: Count of Smaller Numbers After Self
+CodeForces: 1373D - Maximum Sum on Even Positions
+
+
+Mock Interview Questions
+
+LeetCode #347: Top K Frequent Elements
+LeetCode #493: Reverse Pairs
+GFG: Median in a row-wise sorted Matrix
+
+
+
+Week 3: Trees and Heaps
+Day 15: Binary Trees
+
+Tree Traversal Pattern
+
+LeetCode #94: Binary Tree Inorder Traversal
+LeetCode #144: Binary Tree Preorder Traversal
+LeetCode #145: Binary Tree Postorder Traversal
+GFG: Level order traversal
+
+
+Tree Properties Pattern
+
+LeetCode #104: Maximum Depth of Binary Tree
+LeetCode #543: Diameter of Binary Tree
+CodeForces: 1336A - Linova and Kingdom
+
+
+Tree Symmetry Pattern
+
+LeetCode #101: Symmetric Tree
+LeetCode #226: Invert Binary Tree
+GFG: Check if two trees are Mirror
+
+
+
+Day 16: Binary Search Trees
+
+BST Properties Pattern
+
+LeetCode #98: Validate Binary Search Tree
+LeetCode #700: Search in a Binary Search Tree
+GFG: Check for BST
+
+
+BST Operations Pattern
+
+LeetCode #701: Insert into a Binary Search Tree
+LeetCode #450: Delete Node in a BST
+CodeChef: BINARYTREE - Binary Tree
+
+
+BST Traversal Pattern
+
+LeetCode #235: Lowest Common Ancestor of a Binary Search Tree
+LeetCode #538: Convert BST to Greater Tree
+GFG: Predecessor and Successor
+
+
+
+Day 17: Advanced Tree Concepts
+
+Balanced Tree Pattern
+
+LeetCode #110: Balanced Binary Tree
+GFG: AVL Tree Insertion
+GFG: Red Black Tree Insertion
+
+
+Trie Pattern
+
+LeetCode #208: Implement Trie (Prefix Tree)
+LeetCode #211: Design Add and Search Words Data Structure
+GFG: Trie (Insert and Search)
+
+
+Word Search Pattern
+
+LeetCode #212: Word Search II
+LeetCode #79: Word Search
+CodeForces: 271D - Good Substrings
+
+
+
+Day 18: Heaps
+
+Heap Implementation Pattern
+
+LeetCode #1046: Last Stone Weight
+GFG: Operations on Binary Min Heap
+CodeChef: IPCTRAIN - IPC Trainers
+
+
+K-th Element Pattern
+
+LeetCode #215: Kth Largest Element in an Array
+LeetCode #703: Kth Largest Element in a Stream
+GFG: Kth smallest element
+
+
+Merge K Items Pattern
+
+LeetCode #23: Merge k Sorted Lists
+LeetCode #373: Find K Pairs with Smallest Sums
+CodeForces: 1324D - Pair of Topics
+
+
+
+Day 19: Priority Queues
+
+Priority Queue Implementation Pattern
+
+LeetCode #1642: Furthest Building You Can Reach
+LeetCode #1882: Process Tasks Using Servers
+GFG: Huffman Encoding
+
+
+Median Finding Pattern
+
+LeetCode #295: Find Median from Data Stream
+LeetCode #480: Sliding Window Median
+CodeForces: 1426C - Increase and Copy
+
+
+Task Scheduling Pattern
+
+LeetCode #621: Task Scheduler
+LeetCode #1834: Single-Threaded CPU
+GFG: Job Sequencing Problem
+
+
+
+Day 20: Advanced Tree Problems
+
+Segment Tree Pattern
+
+LeetCode #307: Range Sum Query - Mutable
+LeetCode #315: Count of Smaller Numbers After Self
+GFG: Range Minimum Query
+
+
+Interval Tree Pattern
+
+LeetCode #729: My Calendar I
+LeetCode #731: My Calendar II
+GFG: Lazy Propagation in Segment Tree
+
+
+Binary Indexed Tree Pattern
+
+LeetCode #308: Range Sum Query 2D - Mutable
+LeetCode #327: Count of Range Sum
+CodeForces: 459D - Pashmak and Parmida's problem
+
+
+
+Day 21: Review and Problem Solving
+
+Mixed Tree and Heap Problems
+
+LeetCode #987: Vertical Order Traversal of a Binary Tree
+LeetCode #1631: Path With Minimum Effort
+CodeForces: 1091D - New Year and the Permutation Concatenation
+
+
+Mock Interview Questions
+
+LeetCode #124: Binary Tree Maximum Path Sum
+LeetCode #218: The Skyline Problem
+GFG: Maximum path sum in Binary tree
+
+
+
+Week 4: Graphs and Advanced Algorithms
+Day 22: Graph Basics
+
+Graph Representation Pattern
+
+LeetCode #997: Find the Town Judge
+LeetCode #1791: Find Center of Star Graph
+GFG: Print adjacency list
+
+
+BFS Pattern
+
+LeetCode #102: Binary Tree Level Order Traversal
+LeetCode #200: Number of Islands
+CodeForces: 520B - Two Buttons
+
+
+DFS Pattern
+
+LeetCode #733: Flood Fill
+LeetCode #841: Keys and Rooms
+GFG: Detect cycle in an undirected graph
+
+
+
+Day 23: Graph Algorithms I
+
+Dijkstra's Algorithm Pattern
+
+LeetCode #743: Network Delay Time
+LeetCode #1631: Path With Minimum Effort
+GFG: Implementing Dijkstra Algorithm
+
+
+Bellman-Ford Algorithm Pattern
+
+LeetCode #787: Cheapest Flights Within K Stops
+LeetCode #1514: Path with Maximum Probability
+GFG: Negative weight cycle
+
+
+Shortest Path Applications Pattern
+
+LeetCode #1091: Shortest Path in Binary Matrix
+LeetCode #1334: Find the City With the Smallest Number of Neighbors at a Threshold Distance
+CodeForces: 20C - Dijkstra?
+
+
+
+Day 24: Graph Algorithms II
+
+Minimum Spanning Tree Pattern
+
+GFG: Minimum Spanning Tree
+LeetCode #1584: Min Cost to Connect All Points
+CodeForces: 472D - Design Tutorial: Inverse the Problem
+
+
+Topological Sort Pattern
+
+LeetCode #207: Course Schedule
+LeetCode #210: Course Schedule II
+GFG: Topological sort
+
+
+Union Find Pattern
+
+LeetCode #323: Number of Connected Components in an Undirected Graph
+LeetCode #684: Redundant Connection
+CodeForces: 1167C - News Distribution   
+
+
+
+
+
+
+
+https://chat.qwen.ai/s/3fb3e2ff-a0cc-4161-b04c-94bb0d88ab14

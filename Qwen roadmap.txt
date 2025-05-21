@@ -1,0 +1,121 @@
+Week 1: Foundations & Linear Data Structures
+Day 1–2: Arrays & Strings (Two Pointers)
+
+Pattern : Pair/substring detection using two pointers.
+Problems :
+LeetCode : Two Sum (LC 1) 
+GFG : Find Pair with Given Sum 
+CodeChef : Pair Sum
+Codeforces : Sums
+Day 3–4: Linked Lists (Cycle Detection)
+
+Pattern : Floyd’s algorithm for cycle detection.
+Problems :
+LeetCode : Linked List Cycle (LC 141) 
+GFG : Detect Loop in Linked List
+CodeChef : Loop in a Linked List
+Codeforces : Cycle Detection
+Day 5–6: Stacks (Monotonic Stacks)
+
+Pattern : Next greater/smaller element using stacks.
+Problems :
+LeetCode : Next Greater Element I (LC 496) 
+GFG : Next Greater Element
+CodeChef : Stacks and Queues
+Codeforces : Queue
+Day 7: Queues (BFS Basics)
+
+Pattern : BFS for level-order traversal.
+Problems :
+LeetCode : Binary Tree Level Order Traversal (LC 102)
+GFG : Level Order Traversal
+CodeChef : BFS Practice
+Codeforces : Tree Traversal
+Week 2: Trees & Heaps
+Day 8–9: Binary Trees (DFS Traversal)
+
+Pattern : Recursive/iterative tree traversals.
+Problems :
+LeetCode : Maximum Depth of Binary Tree (LC 104)
+GFG : Height of Binary Tree
+CodeChef : Tree Depth
+Codeforces : Tree Queries
+Day 10–11: BST (Validation/Search)
+
+Pattern : BST property checks.
+Problems :
+LeetCode : Validate BST (LC 98)
+GFG : Check for BST
+CodeChef : BST Operations
+Codeforces : BST Test
+Day 12–13: Heaps (Top K Elements)
+
+Pattern : Heap-based selection.
+Problems :
+LeetCode : Kth Largest Element (LC 215) 
+GFG : K Largest Elements
+CodeChef : Kth Max
+Codeforces : Heap Sort
+Day 14: Hash Tables (Frequency Counting)
+
+Pattern : Frequency maps for duplicates.
+Problems :
+LeetCode : Contains Duplicate (LC 217)
+GFG : Duplicates in Array
+CodeChef : Frequency Array
+Codeforces : Counting
+Week 3: Graphs & Advanced Algorithms
+Day 15–16: Graphs (BFS/DFS)
+
+Pattern : Grid traversal for connected components.
+Problems :
+LeetCode : Number of Islands (LC 200)
+GFG : Find Islands
+CodeChef : Island Count
+Codeforces : Grid Paths
+Day 17–18: Graphs (Dijkstra/Union-Find)
+
+Pattern : Shortest path and connectivity.
+Problems :
+LeetCode : Network Delay Time (LC 743)
+GFG : Shortest Path
+CodeChef : Union Find
+Codeforces : Dijkstra
+Day 19–20: DP (Memoization)
+
+Pattern : Recursive solutions with memoization.
+Problems :
+LeetCode : Climbing Stairs (LC 70) 
+GFG : Fibonacci DP
+CodeChef : DP Practice
+Codeforces : Dynamic Programming
+Week 4: System Design & Mock Interviews
+Day 21–23: Tries (Prefix Trees)
+
+Pattern : Trie insertion/search.
+Problems :
+LeetCode : Implement Trie (LC 208)
+GFG : Trie Insert and Search
+CodeChef : Trie Problems
+Codeforces : Prefix Tree
+Day 24–25: Backtracking (Combinatorics)
+
+Pattern : Generating permutations/combinations.
+Problems :
+LeetCode : Permutations (LC 46)
+GFG : Generate Permutations
+CodeChef : Backtracking
+Codeforces : Combinatorics
+Day 26–28: LeetCode Contest Simulation
+
+Solve 4–5 problems daily from recent contests. Focus on speed and edge cases.
+Day 29–30: Mock Interviews
+
+Use platforms like Pramp or LeetCode Mock .
+
+
+
+
+
+
+https://chat.qwen.ai/s/3fb3e2ff-a0cc-4161-b04c-94bb0d88ab14
