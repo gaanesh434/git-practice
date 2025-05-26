@@ -1,0 +1,40 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DebugCount",
+      "request": "launch",
+      "mainClass": "DebugCount",
+      "projectName": "python_c544ae47"
+    },
+    {
+      "type": "java",
+      "name": "DebugMax",
+      "request": "launch",
+      "mainClass": "DebugMax",
+      "projectName": "python_c544ae47"
+    },
+    {
+      "type": "java",
+      "name": "Debug1",
+      "request": "launch",
+      "mainClass": "Debug1",
+      "projectName": "python_c544ae47"
+    },
+    {
+      "type": "java",
+      "name": "Debug1",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "python_c544ae47"
+    },
+    {
+      "type": "java",
+      "name": "Debug Solution.java",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "python"
+    }
+  ]
+}
